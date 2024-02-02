@@ -3,7 +3,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import morgan from "morgan";
 import portfolioRouter from "./routes/portfolio.js";
-import exp from "constants";
+import path from "path";
 
 // configuring the dotenv
 dotenv.config();
