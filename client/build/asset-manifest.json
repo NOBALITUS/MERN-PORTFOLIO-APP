@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b135795.css",
+    "main.js": "/static/js/main.86a7dd9d.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/Portfolio_Img.png": "/static/media/Portfolio_Img.bd062c7bd21441977a1b.png",
+    "static/media/Basudeb_Profile_Pic.jpg": "/static/media/Basudeb_Profile_Pic.180880d8b4b7193010b0.jpg",
+    "index.html": "/index.html",
+    "static/media/basudeb.txt": "/static/media/basudeb.417cf6b26966f7de01cd.txt",
+    "main.6b135795.css.map": "/static/css/main.6b135795.css.map",
+    "main.86a7dd9d.js.map": "/static/js/main.86a7dd9d.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b135795.css",
+    "static/js/main.86a7dd9d.js"
+  ]
+}
